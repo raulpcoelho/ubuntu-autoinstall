@@ -16,6 +16,9 @@ autoinstall:
     - curl
     - obs-studio
     - neofetch
+    - tilix
+    - vlc
+    - htop
   snaps:
     - name: spotify
       channel: stable
