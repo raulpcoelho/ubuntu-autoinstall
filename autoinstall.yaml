@@ -6,7 +6,7 @@ autoinstall:
     hostname: ubuntu-desktop
     username: rpc
     password: '$y$j9T$AKKR4MdzvNLW6PLy84a7/.$gHQhcrFbP.6klveBfzLk3xeoONhnK.hIjWsIx50mRCD'
-  locale: pt_BR.utf8
+  locale: en_US.utf8
   keyboard:
     layout: br
   timezone: 'America/Sao_Paulo'
@@ -19,6 +19,7 @@ autoinstall:
     - tilix
     - vlc
     - htop
+    - gparted
   snaps:
     - name: spotify
       channel: stable
