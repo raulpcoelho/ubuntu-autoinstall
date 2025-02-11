@@ -20,6 +20,9 @@ autoinstall:
     - vlc
     - htop
     - gparted
+    - gnome-tweaks
+    - flameshot
+    - virtualbox
   snaps:
     - name: spotify
       channel: stable
