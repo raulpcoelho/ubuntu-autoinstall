@@ -23,6 +23,8 @@ autoinstall:
     - gnome-tweaks
     - flameshot
     - virtualbox
+    - gdu
+    - neovim
   snaps:
     - name: spotify
       channel: stable
