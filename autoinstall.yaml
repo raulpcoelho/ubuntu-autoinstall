@@ -32,6 +32,9 @@ autoinstall:
     - name: postman
       channel: stable
       classic: false
+    - name: remmina
+      channel: latest/stable
+      classic: false
   codecs:
     install: true
   drivers:
