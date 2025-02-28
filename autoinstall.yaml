@@ -25,6 +25,7 @@ autoinstall:
     - virtualbox
     - gdu
     - neovim
+    - flatpak
   snaps:
     - name: spotify
       channel: stable
